@@ -12,3 +12,17 @@ cool640は4X5のマクロパッドキーボードです。
 <br>
 cool640は二つ揃えると、分割キーボードになります。
 <br>
+<br>
+The size of the PCB is within 100mmX100mm.
+<br>
+It is distributed on booth, but you can freely use the data here and place an order with the PCB manufacturer.
+<br>
+PCBのサイズは、100mmX100mm以内です。
+<br>
+boothにて頒布していますが、ここにあるデータを自由に使い、各自がPCB製造元に発注しても構いません。
+<br>
+
+
+
+
+
