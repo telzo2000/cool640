@@ -1,0 +1,718 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L kbd:ProMicro U1
+U 1 1 61F92BBE
+P 3600 1925
+F 0 "U1" H 3600 2962 60  0000 C CNN
+F 1 "ProMicro" H 3600 2856 60  0000 C CNN
+F 2 "kbd:ProMicro_v3" H 3700 875 60  0001 C CNN
+F 3 "" H 3700 875 60  0000 C CNN
+	1    3600 1925
+	1    0    0    -1  
+$EndComp
+$Comp
+L kbd:SW_PUSH SW1
+U 1 1 61F93451
+P 2150 3125
+F 0 "SW1" H 2150 3380 50  0000 C CNN
+F 1 "SW_PUSH" H 2150 3289 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2150 3125 50  0001 C CNN
+F 3 "" H 2150 3125 50  0000 C CNN
+	1    2150 3125
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D1
+U 1 1 61F93DAC
+P 2450 3325
+F 0 "D1" V 2404 3453 50  0000 L CNN
+F 1 "DIODE" V 2495 3453 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 2450 3325 50  0001 C CNN
+F 3 "~" H 2450 3325 50  0001 C CNN
+	1    2450 3325
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW2
+U 1 1 61F94A73
+P 2975 3125
+F 0 "SW2" H 2975 3380 50  0000 C CNN
+F 1 "SW_PUSH" H 2975 3289 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2975 3125 50  0001 C CNN
+F 3 "" H 2975 3125 50  0000 C CNN
+	1    2975 3125
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D2
+U 1 1 61F94A7D
+P 3275 3325
+F 0 "D2" V 3229 3453 50  0000 L CNN
+F 1 "DIODE" V 3320 3453 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 3275 3325 50  0001 C CNN
+F 3 "~" H 3275 3325 50  0001 C CNN
+	1    3275 3325
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW3
+U 1 1 61F95F25
+P 3775 3125
+F 0 "SW3" H 3775 3380 50  0000 C CNN
+F 1 "SW_PUSH" H 3775 3289 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 3775 3125 50  0001 C CNN
+F 3 "" H 3775 3125 50  0000 C CNN
+	1    3775 3125
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D3
+U 1 1 61F95F2F
+P 4075 3325
+F 0 "D3" V 4029 3453 50  0000 L CNN
+F 1 "DIODE" V 4120 3453 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 4075 3325 50  0001 C CNN
+F 3 "~" H 4075 3325 50  0001 C CNN
+	1    4075 3325
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW4
+U 1 1 61F95F39
+P 4600 3125
+F 0 "SW4" H 4600 3380 50  0000 C CNN
+F 1 "SW_PUSH" H 4600 3289 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 4600 3125 50  0001 C CNN
+F 3 "" H 4600 3125 50  0000 C CNN
+	1    4600 3125
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D4
+U 1 1 61F95F43
+P 4900 3325
+F 0 "D4" V 4854 3453 50  0000 L CNN
+F 1 "DIODE" V 4945 3453 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 4900 3325 50  0001 C CNN
+F 3 "~" H 4900 3325 50  0001 C CNN
+	1    4900 3325
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW6
+U 1 1 61F97E51
+P 2150 3875
+F 0 "SW6" H 2150 4130 50  0000 C CNN
+F 1 "SW_PUSH" H 2150 4039 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2150 3875 50  0001 C CNN
+F 3 "" H 2150 3875 50  0000 C CNN
+	1    2150 3875
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D6
+U 1 1 61F97E5B
+P 2450 4075
+F 0 "D6" V 2404 4203 50  0000 L CNN
+F 1 "DIODE" V 2495 4203 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 2450 4075 50  0001 C CNN
+F 3 "~" H 2450 4075 50  0001 C CNN
+	1    2450 4075
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW7
+U 1 1 61F97E65
+P 2975 3875
+F 0 "SW7" H 2975 4130 50  0000 C CNN
+F 1 "SW_PUSH" H 2975 4039 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2975 3875 50  0001 C CNN
+F 3 "" H 2975 3875 50  0000 C CNN
+	1    2975 3875
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D7
+U 1 1 61F97E6F
+P 3275 4075
+F 0 "D7" V 3229 4203 50  0000 L CNN
+F 1 "DIODE" V 3320 4203 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 3275 4075 50  0001 C CNN
+F 3 "~" H 3275 4075 50  0001 C CNN
+	1    3275 4075
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW8
+U 1 1 61F97E79
+P 3775 3875
+F 0 "SW8" H 3775 4130 50  0000 C CNN
+F 1 "SW_PUSH" H 3775 4039 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 3775 3875 50  0001 C CNN
+F 3 "" H 3775 3875 50  0000 C CNN
+	1    3775 3875
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D8
+U 1 1 61F97E83
+P 4075 4075
+F 0 "D8" V 4029 4203 50  0000 L CNN
+F 1 "DIODE" V 4120 4203 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 4075 4075 50  0001 C CNN
+F 3 "~" H 4075 4075 50  0001 C CNN
+	1    4075 4075
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW9
+U 1 1 61F97E8D
+P 4600 3875
+F 0 "SW9" H 4600 4130 50  0000 C CNN
+F 1 "SW_PUSH" H 4600 4039 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 4600 3875 50  0001 C CNN
+F 3 "" H 4600 3875 50  0000 C CNN
+	1    4600 3875
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D9
+U 1 1 61F97E97
+P 4900 4075
+F 0 "D9" V 4854 4203 50  0000 L CNN
+F 1 "DIODE" V 4945 4203 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 4900 4075 50  0001 C CNN
+F 3 "~" H 4900 4075 50  0001 C CNN
+	1    4900 4075
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW11
+U 1 1 61F9EA83
+P 2150 4625
+F 0 "SW11" H 2150 4880 50  0000 C CNN
+F 1 "SW_PUSH" H 2150 4789 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2150 4625 50  0001 C CNN
+F 3 "" H 2150 4625 50  0000 C CNN
+	1    2150 4625
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D11
+U 1 1 61F9EA8D
+P 2450 4825
+F 0 "D11" V 2404 4953 50  0000 L CNN
+F 1 "DIODE" V 2495 4953 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 2450 4825 50  0001 C CNN
+F 3 "~" H 2450 4825 50  0001 C CNN
+	1    2450 4825
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW12
+U 1 1 61F9EA97
+P 2975 4625
+F 0 "SW12" H 2975 4880 50  0000 C CNN
+F 1 "SW_PUSH" H 2975 4789 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2975 4625 50  0001 C CNN
+F 3 "" H 2975 4625 50  0000 C CNN
+	1    2975 4625
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D12
+U 1 1 61F9EAA1
+P 3275 4825
+F 0 "D12" V 3229 4953 50  0000 L CNN
+F 1 "DIODE" V 3320 4953 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 3275 4825 50  0001 C CNN
+F 3 "~" H 3275 4825 50  0001 C CNN
+	1    3275 4825
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW13
+U 1 1 61F9EAAB
+P 3775 4625
+F 0 "SW13" H 3775 4880 50  0000 C CNN
+F 1 "SW_PUSH" H 3775 4789 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 3775 4625 50  0001 C CNN
+F 3 "" H 3775 4625 50  0000 C CNN
+	1    3775 4625
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D13
+U 1 1 61F9EAB5
+P 4075 4825
+F 0 "D13" V 4029 4953 50  0000 L CNN
+F 1 "DIODE" V 4120 4953 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 4075 4825 50  0001 C CNN
+F 3 "~" H 4075 4825 50  0001 C CNN
+	1    4075 4825
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW14
+U 1 1 61F9EABF
+P 4600 4625
+F 0 "SW14" H 4600 4880 50  0000 C CNN
+F 1 "SW_PUSH" H 4600 4789 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 4600 4625 50  0001 C CNN
+F 3 "" H 4600 4625 50  0000 C CNN
+	1    4600 4625
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D14
+U 1 1 61F9EAC9
+P 4900 4825
+F 0 "D14" V 4854 4953 50  0000 L CNN
+F 1 "DIODE" V 4945 4953 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 4900 4825 50  0001 C CNN
+F 3 "~" H 4900 4825 50  0001 C CNN
+	1    4900 4825
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW16
+U 1 1 61F9EAD3
+P 2150 5375
+F 0 "SW16" H 2150 5630 50  0000 C CNN
+F 1 "SW_PUSH" H 2150 5539 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2150 5375 50  0001 C CNN
+F 3 "" H 2150 5375 50  0000 C CNN
+	1    2150 5375
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D16
+U 1 1 61F9EADD
+P 2450 5575
+F 0 "D16" V 2404 5703 50  0000 L CNN
+F 1 "DIODE" V 2495 5703 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 2450 5575 50  0001 C CNN
+F 3 "~" H 2450 5575 50  0001 C CNN
+	1    2450 5575
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW17
+U 1 1 61F9EAE7
+P 2975 5375
+F 0 "SW17" H 2975 5630 50  0000 C CNN
+F 1 "SW_PUSH" H 2975 5539 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2975 5375 50  0001 C CNN
+F 3 "" H 2975 5375 50  0000 C CNN
+	1    2975 5375
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D17
+U 1 1 61F9EAF1
+P 3275 5575
+F 0 "D17" V 3229 5703 50  0000 L CNN
+F 1 "DIODE" V 3320 5703 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 3275 5575 50  0001 C CNN
+F 3 "~" H 3275 5575 50  0001 C CNN
+	1    3275 5575
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW18
+U 1 1 61F9EAFB
+P 3775 5375
+F 0 "SW18" H 3775 5630 50  0000 C CNN
+F 1 "SW_PUSH" H 3775 5539 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 3775 5375 50  0001 C CNN
+F 3 "" H 3775 5375 50  0000 C CNN
+	1    3775 5375
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D18
+U 1 1 61F9EB05
+P 4075 5575
+F 0 "D18" V 4029 5703 50  0000 L CNN
+F 1 "DIODE" V 4120 5703 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 4075 5575 50  0001 C CNN
+F 3 "~" H 4075 5575 50  0001 C CNN
+	1    4075 5575
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW19
+U 1 1 61F9EB0F
+P 4600 5375
+F 0 "SW19" H 4600 5630 50  0000 C CNN
+F 1 "SW_PUSH" H 4600 5539 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 4600 5375 50  0001 C CNN
+F 3 "" H 4600 5375 50  0000 C CNN
+	1    4600 5375
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D19
+U 1 1 61F9EB19
+P 4900 5575
+F 0 "D19" V 4854 5703 50  0000 L CNN
+F 1 "DIODE" V 4945 5703 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 4900 5575 50  0001 C CNN
+F 3 "~" H 4900 5575 50  0001 C CNN
+	1    4900 5575
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW5
+U 1 1 621500B5
+P 5425 3125
+F 0 "SW5" H 5425 3380 50  0000 C CNN
+F 1 "SW_PUSH" H 5425 3289 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 5425 3125 50  0001 C CNN
+F 3 "" H 5425 3125 50  0000 C CNN
+	1    5425 3125
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D5
+U 1 1 621500BF
+P 5725 3325
+F 0 "D5" V 5679 3453 50  0000 L CNN
+F 1 "DIODE" V 5770 3453 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 5725 3325 50  0001 C CNN
+F 3 "~" H 5725 3325 50  0001 C CNN
+	1    5725 3325
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW10
+U 1 1 621500C9
+P 5425 3875
+F 0 "SW10" H 5425 4130 50  0000 C CNN
+F 1 "SW_PUSH" H 5425 4039 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 5425 3875 50  0001 C CNN
+F 3 "" H 5425 3875 50  0000 C CNN
+	1    5425 3875
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D10
+U 1 1 621500D3
+P 5725 4075
+F 0 "D10" V 5679 4203 50  0000 L CNN
+F 1 "DIODE" V 5770 4203 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 5725 4075 50  0001 C CNN
+F 3 "~" H 5725 4075 50  0001 C CNN
+	1    5725 4075
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW15
+U 1 1 621500DD
+P 5425 4625
+F 0 "SW15" H 5425 4880 50  0000 C CNN
+F 1 "SW_PUSH" H 5425 4789 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 5425 4625 50  0001 C CNN
+F 3 "" H 5425 4625 50  0000 C CNN
+	1    5425 4625
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D15
+U 1 1 621500E7
+P 5725 4825
+F 0 "D15" V 5679 4953 50  0000 L CNN
+F 1 "DIODE" V 5770 4953 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 5725 4825 50  0001 C CNN
+F 3 "~" H 5725 4825 50  0001 C CNN
+	1    5725 4825
+	0    1    1    0   
+$EndComp
+$Comp
+L kbd:SW_PUSH SW20
+U 1 1 621500F1
+P 5425 5375
+F 0 "SW20" H 5425 5630 50  0000 C CNN
+F 1 "SW_PUSH" H 5425 5539 50  0000 C CNN
+F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 5425 5375 50  0001 C CNN
+F 3 "" H 5425 5375 50  0000 C CNN
+	1    5425 5375
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D20
+U 1 1 621500FB
+P 5725 5575
+F 0 "D20" V 5679 5703 50  0000 L CNN
+F 1 "DIODE" V 5770 5703 50  0000 L CNN
+F 2 "kbd:D3_TH_SMD" H 5725 5575 50  0001 C CNN
+F 3 "~" H 5725 5575 50  0001 C CNN
+	1    5725 5575
+	0    1    1    0   
+$EndComp
+Text GLabel 1475 3525 0    50   Input ~ 0
+row0
+Text GLabel 1475 4275 0    50   Input ~ 0
+row1
+Text GLabel 1475 5025 0    50   Input ~ 0
+row2
+Text GLabel 1475 5775 0    50   Input ~ 0
+row3
+Text GLabel 1850 2825 1    50   Input ~ 0
+col0
+Text GLabel 2675 2825 1    50   Input ~ 0
+col1
+Text GLabel 3475 2825 1    50   Input ~ 0
+col2
+Text GLabel 4300 2825 1    50   Input ~ 0
+col3
+Text GLabel 5125 2825 1    50   Input ~ 0
+col4
+Wire Wire Line
+	5125 2850 5125 3125
+Connection ~ 5125 3125
+Wire Wire Line
+	5125 3125 5125 3875
+Connection ~ 5125 3875
+Wire Wire Line
+	5125 3875 5125 4625
+Connection ~ 5125 4625
+Wire Wire Line
+	5125 4625 5125 5375
+Wire Wire Line
+	4300 5375 4300 4625
+Connection ~ 4300 3125
+Wire Wire Line
+	4300 3125 4300 2825
+Connection ~ 4300 3875
+Wire Wire Line
+	4300 3875 4300 3125
+Connection ~ 4300 4625
+Wire Wire Line
+	4300 4625 4300 3875
+Wire Wire Line
+	3475 2825 3475 3125
+Connection ~ 3475 3125
+Wire Wire Line
+	3475 3125 3475 3875
+Connection ~ 3475 3875
+Wire Wire Line
+	3475 3875 3475 4625
+Connection ~ 3475 4625
+Wire Wire Line
+	3475 4625 3475 5375
+Wire Wire Line
+	2675 5375 2675 4625
+Connection ~ 2675 3125
+Wire Wire Line
+	2675 3125 2675 2825
+Connection ~ 2675 3875
+Wire Wire Line
+	2675 3875 2675 3125
+Connection ~ 2675 4625
+Wire Wire Line
+	2675 4625 2675 3875
+Wire Wire Line
+	1850 2825 1850 3125
+Connection ~ 1850 3125
+Wire Wire Line
+	1850 3125 1850 3875
+Connection ~ 1850 3875
+Wire Wire Line
+	1850 3875 1850 4625
+Connection ~ 1850 4625
+Wire Wire Line
+	1850 4625 1850 5375
+Wire Wire Line
+	1475 5775 2450 5775
+Connection ~ 2450 5775
+Wire Wire Line
+	2450 5775 3275 5775
+Connection ~ 3275 5775
+Wire Wire Line
+	3275 5775 4075 5775
+Connection ~ 4075 5775
+Wire Wire Line
+	4075 5775 4900 5775
+Connection ~ 4900 5775
+Wire Wire Line
+	4900 5775 5725 5775
+Wire Wire Line
+	5725 5025 4900 5025
+Connection ~ 2450 5025
+Wire Wire Line
+	2450 5025 1475 5025
+Connection ~ 3275 5025
+Wire Wire Line
+	3275 5025 2450 5025
+Connection ~ 4075 5025
+Wire Wire Line
+	4075 5025 3275 5025
+Connection ~ 4900 5025
+Wire Wire Line
+	4900 5025 4075 5025
+Wire Wire Line
+	1475 4275 2450 4275
+Connection ~ 2450 4275
+Wire Wire Line
+	2450 4275 3275 4275
+Connection ~ 3275 4275
+Wire Wire Line
+	3275 4275 4075 4275
+Connection ~ 4075 4275
+Wire Wire Line
+	4075 4275 4900 4275
+Connection ~ 4900 4275
+Wire Wire Line
+	4900 4275 5725 4275
+Wire Wire Line
+	5725 3525 4900 3525
+Connection ~ 2450 3525
+Wire Wire Line
+	2450 3525 1475 3525
+Connection ~ 3275 3525
+Wire Wire Line
+	3275 3525 2450 3525
+Connection ~ 4075 3525
+Wire Wire Line
+	4075 3525 3275 3525
+Connection ~ 4900 3525
+Wire Wire Line
+	4900 3525 4075 3525
+Text GLabel 2900 1775 0    50   Input ~ 0
+col0
+Text GLabel 2900 1875 0    50   Input ~ 0
+col1
+Text GLabel 2900 1975 0    50   Input ~ 0
+col2
+Text GLabel 2900 2075 0    50   Input ~ 0
+col3
+Text GLabel 2900 2175 0    50   Input ~ 0
+col4
+Text GLabel 4300 1775 2    50   Input ~ 0
+row0
+Text GLabel 4300 1875 2    50   Input ~ 0
+row1
+Text GLabel 4300 1975 2    50   Input ~ 0
+row2
+Text GLabel 4300 2075 2    50   Input ~ 0
+row3
+$Comp
+L power:GND #PWR0101
+U 1 1 62162F6D
+P 2600 1475
+F 0 "#PWR0101" H 2600 1225 50  0001 C CNN
+F 1 "GND" H 2605 1302 50  0000 C CNN
+F 2 "" H 2600 1475 50  0001 C CNN
+F 3 "" H 2600 1475 50  0001 C CNN
+	1    2600 1475
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2900 1475 2600 1475
+Wire Wire Line
+	2900 1375 2600 1375
+Wire Wire Line
+	2600 1375 2600 1475
+Connection ~ 2600 1475
+$Comp
+L power:GND #PWR0102
+U 1 1 62164E17
+P 4575 1275
+F 0 "#PWR0102" H 4575 1025 50  0001 C CNN
+F 1 "GND" H 4580 1102 50  0000 C CNN
+F 2 "" H 4575 1275 50  0001 C CNN
+F 3 "" H 4575 1275 50  0001 C CNN
+	1    4575 1275
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4575 1275 4300 1275
+$Comp
+L power:VCC #PWR?
+U 1 1 62171657
+P 1825 1125
+F 0 "#PWR?" H 1825 975 50  0001 C CNN
+F 1 "VCC" H 1840 1298 50  0000 C CNN
+F 2 "" H 1825 1125 50  0001 C CNN
+F 3 "" H 1825 1125 50  0001 C CNN
+	1    1825 1125
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG?
+U 1 1 621721BE
+P 1825 1125
+F 0 "#FLG?" H 1825 1200 50  0001 C CNN
+F 1 "PWR_FLAG" H 1825 1298 50  0000 C CNN
+F 2 "" H 1825 1125 50  0001 C CNN
+F 3 "~" H 1825 1125 50  0001 C CNN
+	1    1825 1125
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG?
+U 1 1 62172B93
+P 1650 1125
+F 0 "#FLG?" H 1650 1200 50  0001 C CNN
+F 1 "PWR_FLAG" H 1650 1298 50  0000 C CNN
+F 2 "" H 1650 1125 50  0001 C CNN
+F 3 "~" H 1650 1125 50  0001 C CNN
+	1    1650 1125
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 6217334A
+P 1650 1125
+F 0 "#PWR?" H 1650 875 50  0001 C CNN
+F 1 "GND" H 1655 952 50  0000 C CNN
+F 2 "" H 1650 1125 50  0001 C CNN
+F 3 "" H 1650 1125 50  0001 C CNN
+	1    1650 1125
+	1    0    0    -1  
+$EndComp
+$Comp
+L Pico:PICO_RP2040 U?
+U 1 1 621738D9
+P 7675 2200
+F 0 "U?" H 7650 3565 50  0000 C CNN
+F 1 "PICO_RP2040" H 7650 3474 50  0000 C CNN
+F 2 "" H 7575 3650 50  0001 C CNN
+F 3 "" H 7575 3650 50  0001 C CNN
+	1    7675 2200
+	1    0    0    -1  
+$EndComp
+Text GLabel 7025 1550 0    50   Input ~ 0
+row0
+Text GLabel 7025 1650 0    50   Input ~ 0
+row1
+Text GLabel 7025 1750 0    50   Input ~ 0
+row2
+Text GLabel 7025 1850 0    50   Input ~ 0
+row3
+Text GLabel 6575 2400 0    50   Input ~ 0
+col0
+Text GLabel 6575 2500 0    50   Input ~ 0
+col1
+Text GLabel 6575 2600 0    50   Input ~ 0
+col2
+Text GLabel 6575 2700 0    50   Input ~ 0
+col3
+Text GLabel 7025 2250 0    50   Input ~ 0
+col4
+$EndSCHEMATC
