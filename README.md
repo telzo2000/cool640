@@ -15,7 +15,7 @@ cool640は二つ揃えると、分割キーボードになります。
 <br>
 The size of the PCB is within 100mmX100mm.
 <br>
-It is distributed on booth, but you can freely use the data here and place an order with the PCB manufacturer.
+It will be distributed on booth in the future, but you can freely use the data here and place an order with the PCB manufacturer.
 <br><br>
 PCBのサイズは、100mmX100mm以内です。
 <br>
