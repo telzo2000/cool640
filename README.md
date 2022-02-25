@@ -12,6 +12,12 @@ cool640は4X5のマクロパッドキーボードです。
 <br>
 cool640は二つ揃えると、分割キーボードになります。
 <br><br>
+You can choose either pro micro or raspberry pi pico to use.
+<br><br>
+pro microかraspberry pi picoのどちらか一つを選んで使うことができます。
+<br>
+
+
 <br>
 The size of the PCB is within 100mmX100mm.
 <br>
@@ -29,6 +35,7 @@ Please use at your own risk.
 <br>
 自己責任で利用してください。
 <br>
+
 
 
 
