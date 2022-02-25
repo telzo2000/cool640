@@ -19,7 +19,7 @@ It is distributed on booth, but you can freely use the data here and place an or
 <br><br>
 PCBのサイズは、100mmX100mm以内です。
 <br>
-boothにて頒布していますが、ここにあるデータを自由に使い、各自がPCB製造元に発注しても構いません。
+将来、boothにて頒布しますが、ここにあるデータを自由に使い、各自がPCB製造元に発注しても構いません。
 <br><br>
 I do not take any responsibility for the data that you freely use.
 <br>
