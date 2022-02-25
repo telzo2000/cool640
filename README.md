@@ -21,7 +21,14 @@ PCBのサイズは、100mmX100mm以内です。
 <br>
 boothにて頒布していますが、ここにあるデータを自由に使い、各自がPCB製造元に発注しても構いません。
 <br>
-
+I do not take any responsibility for the data that you freely use.
+<br>
+Please use at your own risk.
+<br>
+各自が自由に使ったデータについては、私は一切の責任を負いません。
+<br>
+自己責任で利用してください。
+<br>
 
 
 
