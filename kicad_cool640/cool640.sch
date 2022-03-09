@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L kbd:ProMicro U1
+L cool640-rescue:ProMicro-kbd U1
 U 1 1 61F92BBE
 P 3600 1925
 F 0 "U1" H 3600 2962 60  0000 C CNN
@@ -685,7 +685,7 @@ F 3 "" H 1650 1125 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Pico:PICO_RP2040 U2
+L cool640-rescue:PICO_RP2040-Pico U2
 U 1 1 621738D9
 P 7675 2200
 F 0 "U2" H 7650 3565 50  0000 C CNN
@@ -950,4 +950,43 @@ data
 NoConn ~ 7025 1250
 Wire Wire Line
 	5125 2825 5125 3125
+$Comp
+L Connector_Generic:Conn_01x03 J3
+U 1 1 622800E0
+P 950 3125
+F 0 "J3" H 868 2800 50  0000 C CNN
+F 1 "LED" H 868 2891 50  0000 C CNN
+F 2 "kbd:StripLED_1side" H 950 3125 50  0001 C CNN
+F 3 "~" H 950 3125 50  0001 C CNN
+	1    950  3125
+	-1   0    0    1   
+$EndComp
+Text GLabel 1150 3125 2    50   Input ~ 0
+LED
+$Comp
+L power:VCC #PWR0114
+U 1 1 622800EB
+P 1375 3025
+F 0 "#PWR0114" H 1375 2875 50  0001 C CNN
+F 1 "VCC" H 1390 3198 50  0000 C CNN
+F 2 "" H 1375 3025 50  0001 C CNN
+F 3 "" H 1375 3025 50  0001 C CNN
+	1    1375 3025
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0115
+U 1 1 622800F5
+P 1375 3225
+F 0 "#PWR0115" H 1375 2975 50  0001 C CNN
+F 1 "GND" H 1380 3052 50  0000 C CNN
+F 2 "" H 1375 3225 50  0001 C CNN
+F 3 "" H 1375 3225 50  0001 C CNN
+	1    1375 3225
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1150 3225 1375 3225
+Wire Wire Line
+	1150 3025 1375 3025
 $EndSCHEMATC
