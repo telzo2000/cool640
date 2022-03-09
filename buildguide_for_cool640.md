@@ -26,7 +26,11 @@
 
 この他に、TRRSケーブル、USBケーブル、キーキャップ等が必要です。
 
+## Firmware
 
+### 1 PRK_FIRMWARE
+
+[keymap.rb]()
 
 
 
