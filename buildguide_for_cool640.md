@@ -30,7 +30,10 @@
 
 ### 1 PRK_FIRMWARE
 
-[keymap.rb]()
+[keymap.rb](https://github.com/telzo2000/cool640/tree/main/firmware)
+
+<br>
+
 
 
 
