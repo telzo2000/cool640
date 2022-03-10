@@ -37,6 +37,15 @@ Please use at your own risk.
 <br>
 
 
+## Build Guide
+https://github.com/telzo2000/cool640/blob/main/buildguide_for_cool640.md
+
+<br>
+
+## Firmware
+https://github.com/telzo2000/cool640/tree/main/firmware
+
+
 
 
 
