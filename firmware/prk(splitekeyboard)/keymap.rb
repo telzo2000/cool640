@@ -29,24 +29,30 @@ kbd.init_matrix_pins(
 kbd.add_layer :default, %i[
   KC_Q     KC_W     KC_E        KC_R      KC_T     KC_Y    KC_U    KC_I   KC_O   KC_P
   KC_A     KC_S     KC_D        KC_F      KC_G     KC_H    KC_J    KC_K   KC_L   KC_MINUS
-  KC_Z     KC_X     KC_C        KC_V      KC_B     KC_N    KC_M    KC_COMMA  KC_DOT   KC_ENTER      
-  KC_LSFT  KC_LCTL  KC_LGUI     KC_LALT   KC_SPACE KC_SPACE KC_1   KC_2   KC_3   KC_BSPACE
+  KC_Z     KC_X     KC_C        KC_V      KC_B     KC_N    KC_M    KC_COMMA  KC_DOT KC_LSFT        
+  KC_ESCAPE  KC_LCTL  KC_LGUI   KC_LALT   RAISE_SPC LOWER_SPC KC_ENTER   KC_LPRN  KC_RPRN   KC_BSPACE
 ]
-
+kbd.add_layer :raise, %i[
+  KC_1    KC_2    KC_3        KC_4      KC_5      KC_6      KC_7      KC_8      KC_9     KC_0     
+  KC_EXLM KC_AT   KC_HASH     KC_DLR    KC_PERC   KC_CIRC   KC_AMPR   KC_ASTER  KC_LPRN  KC_RPRN   
+  KC_PLUS KC_MINUS KC_ASTER   KC_SLASH  KC_EQUAL  KC_N      KC_INSERT KC_LBRC  KC_RBRC   KC_LSFT 
+  KC_TAB  KC_LCTL  KC_LGUI   KC_LALT   RAISE_SPC  KC_SPACE  KC_ENTER KC_LPRN  KC_RPRN   KC_BSPACE
+]
+kbd.add_layer :lower, %i[
+    KC_F1    KC_F2      KC_F3       KC_F4      KC_F5     KC_F6      KC_F7     KC_F8     KC_F9     KC_F10   
+    KC_AT    KC_BSLASH  KC_SCOLON   KC_SCOLON  KC_QUOTE  KC_LEFT    KC_DOWN   KC_UP     KC_RIGHT KC_PIPE 
+    RGB_TOG  RGB_MOD    RGB_HUI     RGB_HUD    KC_B      KC_N       KC_M      KC_LBRC  KC_RBRC  KC_LSFT 
+    KC_TAB  KC_LCTL     KC_LGUI     KC_LALT    RAISE_SPC LOWER_SPC  KC_ENTER  KC_LPRN  KC_RPRN   KC_BSPACE 
+]
 #
 #                   Your custom     Keycode or             Keycode (only modifiers)      Release time      Re-push time
 #                   key name        Array of Keycode       or Layer Symbol to be held    threshold(ms)     threshold(ms)
 #                                   or Proc                or Proc which will run        to consider as    to consider as
 #                                   when you click         while you keep press          `click the key`   `hold the key`
-
-
-# `before_report` will work just right before reporting what keys are pushed to USB host.
-# You can use it to hack data by adding an instance method to Keyboard class by yourself.
-# ex) Use Keyboard#before_report filter if you want to input `":" w/o shift` and `";" w/ shift`
-#kbd.before_report do
-#  kbd.invert_sft if kbd.keys_include?(:KC_SCOLON)
-#  # You'll be also able to write `invert_ctl`, `invert_alt` and `invert_gui`
-#end
+kbd.define_mode_key :ALT_Q,       [ :KC_Q,                 :KC_LALT,                     150,              150]
+kbd.define_mode_key :GUI_X,       [ :KC_X,                 :KC_LGUI,                     150,              150 ]
+kbd.define_mode_key :RAISE_SPC,   [ :KC_SPACE,             :raise,                       150,              250 ]
+kbd.define_mode_key :LOWER_SPC,   [ :KC_SPACE,             :lower,                       150,              250 ]
 
 rgb = RGB.new(
   13,    # pin number
