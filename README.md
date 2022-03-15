@@ -2,6 +2,11 @@
 
 <br>
 
+![](img/img00001.jpg)
+
+
+
+
 ## What is cool640？
 
 cool640 is 4X5 macro pad keyboard.
@@ -15,9 +20,14 @@ cool640は二つ揃えると、分割キーボードになります。
 You can choose either pro micro or raspberry pi pico to use.
 <br><br>
 pro microかraspberry pi picoのどちらか一つを選んで使うことができます。
+
+<br><br>
+You can choose either choc switch or cherry mx switch to use.
 <br>
+Chocスイッチか CHERRY MXスイッチのどちらか一つを選んで使うことができます。
 
-
+![](img/img00002.jpg)
+![](img/img00003.jpg)
 <br>
 The size of the PCB is within 100mmX100mm.
 <br>
