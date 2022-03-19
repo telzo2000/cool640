@@ -1,7 +1,6 @@
 # Initialize a Keyboard
 kbd = Keyboard.new
 kbd.split = true # This should happen before Keyboard#init_pins.
-kbd.uart_pin = 1 # See below.
 # Initialize GPIO assign
 kbd.init_pins(
   [ 3, 2, 6, 4 ],            # row0, row1,... respectively
@@ -44,7 +43,7 @@ kbd.add_layer :lower, %i[
     RGB_TOG  RGB_MOD    RGB_HUI     RGB_HUD    KC_B      KC_N       KC_M      KC_LBRC  KC_RBRC  KC_LSFT 
     KC_TAB  KC_LCTL     KC_LGUI     KC_LALT    RAISE_SPC LOWER_SPC  KC_ENTER  KC_LPRN  KC_RPRN   KC_BSPACE 
 ]
-#
+
 #                   Your custom     Keycode or             Keycode (only modifiers)      Release time      Re-push time
 #                   key name        Array of Keycode       or Layer Symbol to be held    threshold(ms)     threshold(ms)
 #                                   or Proc                or Proc which will run        to consider as    to consider as
