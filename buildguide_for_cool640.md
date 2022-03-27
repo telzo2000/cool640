@@ -81,6 +81,36 @@ Use a lead bender to bend the legs of the diode.
 
 ![](img/img00008.jpg)
 
+![](img/img00009.jpg)
 
+Insert the diode into the board.
+<br>
+ダイオードを基板に挿しこみます。
+<br>
+
+![](img/img00010.jpg)
+
+Please refer to the image and pay attention to the orientation of the diode.
+<br>
+画像を参考にして、ダイオードの向きに注意してください。
+<br>
+
+![](img/img00011.jpg)
+
+Secure the diode with masking tape, then face up.
+<br>
+マスキングテープでダイオードを固定してから、表面を上にします。
+<br>
+Solder the protruding legs.
+<br>
+はみ出ている足部分に、ハンダ付けをします。
+<br>
+After soldering, use nippers to cut off the protruding legs.
+<br>
+はんだ付けが終わったら、はみ出ている足をニッパーで切り取ってください。
+<br>
+<br>
+
+### 3 
 
 
