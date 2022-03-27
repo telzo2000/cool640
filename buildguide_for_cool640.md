@@ -40,4 +40,47 @@
 <br>
 
 
+## Build
+
+### 1 Parts check
+
+Front side（表面）
+![](img/img00004.jpg)
+
+Backside（裏面）
+![](img/img00005.jpg)
+
+### 2 Diode soldering
+
+Solder the diode on the back side.
+<br>
+裏面にダイオードの半田付けをします。
+<br>
+
+![](img/img00006.jpg)
+
+There are lead type and SMD diodes.
+<br>
+ダイオードはリードタイプか、SMDがあります。
+<br>
+Here, we will explain the lead type soldering.
+<br>
+ここでは、リードタイプのハンダ付けの説明をします。
+<br>
+However, those who adopt the choc switch should use SMD diodes.
+<br>
+ただし、chocスイッチを採用する人は、SMDのダイオードを使用してください。
+<br>
+
+![](img/img00007.jpg)
+
+Use a lead bender to bend the legs of the diode.
+<br>
+リードベンダーを使い、ダイオードの足を曲げます。
+<br>
+
+![](img/img00008.jpg)
+
+
+
 
