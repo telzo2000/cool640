@@ -54,7 +54,7 @@ Backside（裏面）
 
 Solder the diode on the back side.
 <br>
-裏面にダイオードの半田付けをします。
+裏面にダイオードのハンダ付けをします。
 <br>
 
 ![](img/img00006.jpg)
@@ -111,6 +111,54 @@ After soldering, use nippers to cut off the protruding legs.
 <br>
 <br>
 
-### 3 
+### 3 Soldering switch sockets
+
+Solder the switch sockets on the back side.
+<br>
+裏面にスイッチソケットのハンダ付けをします。
+<br>
+cool640 is compatible with both choc and cherry MX switches.
+<br>
+cool640はchocスイッチとcherryMXスイッチの両方に対応しています。
+<br>
+Both can be installed.
+<br>
+両方を取り付けることが可能です。
+<br>
+Here, solder the cherryMX switch.
+<br>
+ここでは、cherryMXスイッチのハンダ付けを行います。
+<br>
+Place the switch socket so that the letters MX are hidden.
+<br>
+MXという文字が隠れるように、スイッチソケットを乗せてください。
+<br>
+That is the correct switch socket orientation.
+<br>
+それが正しいスイッチソケットの向きになります。
+<br>
+When using a choc switch, place the switch socket so that the letters choc are hidden.
+<br>
+chocスイッチの時は、chocという文字が隠れるように、スイッチソケットを乗せてください。
+<br>
+
+![](img/img00013.jpg)
+
+Apply solder to both pads.
+<br>
+両方のパッドにハンダを盛ります。
+<br>
+Place the switch socket and fix it with a warm soldering iron while melting the solder.
+<br>
+スイッチソケットを乗せて、温めたハンダゴテで、ハンダを溶かしながら、固定します。
+<br>
+You can make it easier by working while holding it with tweezers.
+<br>
+ピンセットで押さえながら、作業をすると楽にできます。
+<br>
+
+![](img/img00012.jpg)
+
+
 
 
