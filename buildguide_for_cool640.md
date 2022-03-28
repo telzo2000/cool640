@@ -299,6 +299,7 @@ If you like, attach a rubber cushion to the back and you're done.
 ## Build 2(Acrylic sandwich mount case)
 
 ![](img/img00020.jpg)
+
 After 1 ~ 6 of build1, please do the next step.
 <br>
 build1の1~6の後、次の工程をしてください。
