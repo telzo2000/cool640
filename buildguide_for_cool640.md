@@ -40,7 +40,7 @@
 <br>
 
 
-## Build
+## Build 1(PCB only)
 
 ### 1 Parts check
 
@@ -275,3 +275,89 @@ Attach your favorite key switch.
 <br>
 
 ![](img/img00018.jpg)
+
+<br>
+<br>
+
+### 8 Installation of key cap
+
+Attach your favorite key cap.
+<br>
+好きなキーキャップを取り付けてください。
+<br>
+
+![](img/img00019.jpg)
+
+<br>
+If you like, attach a rubber cushion to the back and you're done.
+<br>
+お好みで裏面にラバークッションを取り付けたら、完成です。
+<br>
+<br>
+<br>
+
+## Build 2(Acrylic sandwich mount case)
+
+![](img/img00020.jpg)
+After 1 ~ 6 of build1, please do the next step.
+<br>
+build1の1~6の後、次の工程をしてください。
+<br>
+
+### 1 Installation of cover plate
+
+Prepare a cover plate, M2 spacer 6mm（x２）, and M2 screw 3mm（x４）.
+<br>
+カバープレート、M2スペーサー6mm（２個）、M2ネジ3mm（４本）を用意します。
+<br>
+Screw the spacer to the cover plate in the same orientation.
+<br>
+カバープレートに同じ向きで、スペーサーをネジで固定します。
+<br>
+Then use the remaining screws to attach the cover plate to the PCB.
+<br>
+次に、残りのネジを使い、カバープレートをPCBに取り付けます。
+<br>
+There is an orientation of the cover plate, so it is good to check it once before starting work.
+<br>
+カバープレートの向きがあり、作業前に一度、重ねて確認すると良いです。
+<br>
+<br>
+
+### 2-1 Installation of switch plate（choc switch）
+
+Prepare a switch plate, M2 spacer 3 mm（x４）, and M2 screw 6 mm（x４）.
+<br>
+スイッチプレート、M2スペーサー３mm（４本）、M2ネジ６mm（４本）、を用意します。
+<br>
+Fix the screws in 4 places.
+<br>
+ネジを４箇所、固定します。
+<br>
+Insert the screws in the order of the switch plate and the PCB, and fix them with spacers on the back of the PCB.
+<br>
+ネジはスイッチプレート、PCBの順でさしこみ、PCBの裏面でスペーサーで固定します。
+<br>
+
+<br>
+
+### 2-2 Installation of switch plate（cherry MX switch）
+
+Prepare a switch plate, M2 spacer 3 mm（x８）, and M2 screw 8 mm（x４）.
+<br>
+スイッチプレート、M2スペーサー３mm（８本）、M2ネジ８mm（４本）、を用意します。
+<br>
+Fix the screws in 4 places.
+<br>
+ネジを４箇所、固定します。
+<br>
+Insert the switch plate into the screw and fix it with a spacer.
+<br>
+ネジはスイッチプレートをさしこみ、スペーサーで固定します。
+<br>
+Next, insert the switch plate into the PCB and secure it with a spacer on the back of the PCB.
+<br>
+次に、スイッチプレートをPCBにさしこみ、PCBの裏面でスペーサーで固定します。
+<br>
+
+### 3 Installation of bottom plate 
