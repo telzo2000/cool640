@@ -45,9 +45,11 @@
 ### 1 Parts check
 
 Front side（表面）
+
 ![](img/img00004.jpg)
 
 Backside（裏面）
+
 ![](img/img00005.jpg)
 
 ### 2 Diode soldering
@@ -159,6 +161,117 @@ You can make it easier by working while holding it with tweezers.
 
 ![](img/img00012.jpg)
 
+<br><br>
+
+### 4 Soldering reset switch & TRRS jack 
+
+Solder reset switch  on the back side.
+<br>
+裏面にリセットスイッチをハンダ付けします。
+<br>
+Solder the TRRS jack near the reset switch.
+<br>
+リセットスイッチの近くにTRRSジャックをハンダ付けします。
+
+![](img/img00014.jpg)
+
+<br><br>
+
+
+### 5　Choice of Pro micro or Raspberry Pi Pico
+
+You can run cool640 in either Pro micro or Raspberry Pi Pico.
+<br>
+cool640をpro microかラズパイピコのどちらか一方で動作させることができます。
+<br>
+＜case 1＞
+<br>
+When you choose Pro micro, place it on the left side of the TRRS jack.
+<br>
+pro microを選んだ時、TRRSジャックの左側にpro microを取り付けてください。
+<br>
+
+
+![](img/img00015.jpg)
+
+
+Use the conthrough to fix the pro micro with the side with the parts facing down.
+<br>
+pro microの部品のある面を下向きに、コンスルーを使い、固定してください。
+<br>
+
+
+![](img/img00016.jpg)
+
+
+Pay attention to the orientation of the conthrough.
+<br>
+コンスルーの向きに注意してください。
+<br>
+
+If the USB port touches the PCB, cut off the part on the left side of the PCB.
+<br>
+もし、USB端子がPCBに接触するならば、PCBの左側の一部を切りとってください。
+<br>
+
+![](img/img00017.jpg)
+
+＜case 2＞
+<br>
+When you choose Raspberry Pi Pico, place it on the right side of the TRRS jack.
+<br>
+ラズパイピコを選んだ時、TRRSジャックの右側にラズパイピコを取り付けてください。
+
+Use the conthrough to fix the Raspberry Pi Pico with the side with the parts facing down.
+<br>
+ラズパイピコの部品のある面を下向きに、コンスルーを使い、固定してください。
+<br>
 
 
 
+Pay attention to the orientation of the conthrough.
+<br>
+コンスルーの向きに注意してください。
+<br>
+
+If the USB port touches the PCB, cut off the part on the right side of the PCB.
+<br>
+もし、USB端子がPCBに接触するならば、PCBの右側の一部を切りとってください。
+<br>
+
+<br>
+
+### 6　Test
+
+Please write the firmware and check the operation.
+<br>
+ファームウェアを書き込んで、動作確認をしてください。
+<br>
+
+Install a switch or measure continuity with tweezers, etc.
+<br>
+スイッチを取り付けるか、ピンセット等で導通をはかるかを行います。
+<br>
+
+
+
+### PRK_FIRMWARE
+
+[Here](https://github.com/telzo2000/cool640/tree/main/firmware)
+
+<br>
+
+### QMK_FIRMWARE
+[Here](https://github.com/telzo2000/cool640/tree/main/firmware)
+
+<br>
+<br>
+
+### 7 Installation of key switch
+
+Attach your favorite key switch.
+<br>
+好きなキースイッチを取り付けてください。
+<br>
+
+![](img/img00018.jpg)
