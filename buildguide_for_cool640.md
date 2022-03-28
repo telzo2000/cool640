@@ -48,7 +48,7 @@ Front side（表面）
 
 ![](img/img00004.jpg)
 
-Backside（裏面）
+Back side（裏面）
 
 ![](img/img00005.jpg)
 
@@ -165,13 +165,17 @@ You can make it easier by working while holding it with tweezers.
 
 ### 4 Soldering reset switch & TRRS jack 
 
-Solder reset switch  on the back side.
+Insert the reset switch on the surface.
 <br>
-裏面にリセットスイッチをハンダ付けします。
+表面にリセットスイッチを挿しこみます。
 <br>
-Solder the TRRS jack near the reset switch.
+Solder the legs of the reset switch from the back.
 <br>
-リセットスイッチの近くにTRRSジャックをハンダ付けします。
+裏面からリセットスイッチの足をハンダ付けします。
+<br>
+Solder the TRRS jack in the same way near the reset switch.
+<br>
+TRRSジャックは、リセットスイッチの近くに同じようにハンダ付けします。
 
 ![](img/img00014.jpg)
 
