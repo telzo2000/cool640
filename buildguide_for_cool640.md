@@ -328,7 +328,7 @@ There is an orientation of the cover plate, so it is good to check it once befor
 
 Prepare a switch plate, M2 spacer 3 mm（x４）, and M2 screw 6 mm（x４）.
 <br>
-スイッチプレート、M2スペーサー３mm（４本）、M2ネジ６mm（４本）、を用意します。
+スイッチプレート、M2スペーサー３mm（４本）、M2ネジ６mm（４本）を用意します。
 <br>
 Fix the screws in 4 places.
 <br>
@@ -345,7 +345,7 @@ Insert the screws in the order of the switch plate and the PCB, and fix them wit
 
 Prepare a switch plate, M2 spacer 3 mm（x８）, and M2 screw 8 mm（x４）.
 <br>
-スイッチプレート、M2スペーサー３mm（８本）、M2ネジ８mm（４本）、を用意します。
+スイッチプレート、M2スペーサー３mm（８本）、M2ネジ８mm（４本）を用意します。
 <br>
 Fix the screws in 4 places.
 <br>
@@ -361,3 +361,35 @@ Next, insert the switch plate into the PCB and secure it with a spacer on the ba
 <br>
 
 ### 3 Installation of bottom plate 
+
+Prepare the bottom plate and M2 ３mm screws（x４）.
+<br>
+ボトムプレート、M２ネジ３mm（４本）を用意します。
+<br>
+Place the bottom plate according to the spacer on the back of the PCB and fix it with screws.
+<br>
+PCB裏面にあるスペーサーに合わせて、ボトムプレートをのせて、ネジで固定します。
+<br>
+<br>
+From here, proceed with step 7 of build1.
+<br>
+ここからは、build１の７の工程を進めてください。
+<br>
+
+Right:Raspberry Pi Pico & choc switch
+<br>
+Left :Pro micro & cherry MX switch
+
+![](img/img00021.jpg)
+
+From the side
+![](img/img00022.jpg)
+
+<br>
+
+![](img/img00023.jpg)
+
+Have a fun selfmade keyboard life!
+<br>
+楽しい自作キーボード生活を!
+
