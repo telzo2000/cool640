@@ -384,6 +384,7 @@ Left :Pro micro & cherry MX switch
 ![](img/img00021.jpg)
 
 From the side
+
 ![](img/img00022.jpg)
 
 <br>
