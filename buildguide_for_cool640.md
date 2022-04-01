@@ -111,6 +111,11 @@ After soldering, use nippers to cut off the protruding legs.
 <br>
 はんだ付けが終わったら、はみ出ている足をニッパーで切り取ってください。
 <br>
+
+[８倍速　Diodeハンダ付け動画](https://youtu.be/Yaodh2-XxV4)
+
+
+<br>
 <br>
 
 ### 3 Soldering switch sockets
@@ -161,6 +166,9 @@ You can make it easier by working while holding it with tweezers.
 
 ![](img/img00012.jpg)
 
+
+[８倍速　Switch socketハンダ付け動画](https://youtu.be/E__mHvmIXQo)
+
 <br><br>
 
 ### 4 Soldering reset switch & TRRS jack 
@@ -178,6 +186,9 @@ Solder the TRRS jack in the same way near the reset switch.
 TRRSジャックは、リセットスイッチの近くに同じようにハンダ付けします。
 
 ![](img/img00014.jpg)
+
+
+[８倍速　Reset switch,TRRS jackハンダ付け動画](https://youtu.be/3gEbExaOAv4)
 
 <br><br>
 
