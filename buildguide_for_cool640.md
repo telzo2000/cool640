@@ -33,6 +33,17 @@
 [Here](https://github.com/telzo2000/cool640/tree/main/firmware)
 
 <br>
+For those who are introducing PRK for the first time.
+<br>
+初めてのPRKを導入する方に
+<br>
+Only Japanese tweets.
+<br>
+日本語ツイートのみです。
+<br>
+
+https://twitter.com/0002ozlet/status/1512535045957111810
+
 
 ### 2 QMK_FIRMWARE
 [Here](https://github.com/telzo2000/cool640/tree/main/firmware)
