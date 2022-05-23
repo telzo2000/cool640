@@ -30,7 +30,7 @@ U 1 1 61F93451
 P 2150 3125
 F 0 "SW1" H 2150 3380 50  0000 C CNN
 F 1 "SW_PUSH" H 2150 3289 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2150 3125 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2150 3125 50  0001 C CNN
 F 3 "" H 2150 3125 50  0000 C CNN
 	1    2150 3125
 	1    0    0    -1  
@@ -52,7 +52,7 @@ U 1 1 61F94A73
 P 2975 3125
 F 0 "SW2" H 2975 3380 50  0000 C CNN
 F 1 "SW_PUSH" H 2975 3289 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2975 3125 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2975 3125 50  0001 C CNN
 F 3 "" H 2975 3125 50  0000 C CNN
 	1    2975 3125
 	1    0    0    -1  
@@ -74,7 +74,7 @@ U 1 1 61F95F25
 P 3775 3125
 F 0 "SW3" H 3775 3380 50  0000 C CNN
 F 1 "SW_PUSH" H 3775 3289 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 3775 3125 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 3775 3125 50  0001 C CNN
 F 3 "" H 3775 3125 50  0000 C CNN
 	1    3775 3125
 	1    0    0    -1  
@@ -96,7 +96,7 @@ U 1 1 61F95F39
 P 4600 3125
 F 0 "SW4" H 4600 3380 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 3289 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 4600 3125 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 4600 3125 50  0001 C CNN
 F 3 "" H 4600 3125 50  0000 C CNN
 	1    4600 3125
 	1    0    0    -1  
@@ -118,7 +118,7 @@ U 1 1 61F97E51
 P 2150 3875
 F 0 "SW6" H 2150 4130 50  0000 C CNN
 F 1 "SW_PUSH" H 2150 4039 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2150 3875 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2150 3875 50  0001 C CNN
 F 3 "" H 2150 3875 50  0000 C CNN
 	1    2150 3875
 	1    0    0    -1  
@@ -140,7 +140,7 @@ U 1 1 61F97E65
 P 2975 3875
 F 0 "SW7" H 2975 4130 50  0000 C CNN
 F 1 "SW_PUSH" H 2975 4039 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2975 3875 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2975 3875 50  0001 C CNN
 F 3 "" H 2975 3875 50  0000 C CNN
 	1    2975 3875
 	1    0    0    -1  
@@ -162,7 +162,7 @@ U 1 1 61F97E79
 P 3775 3875
 F 0 "SW8" H 3775 4130 50  0000 C CNN
 F 1 "SW_PUSH" H 3775 4039 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 3775 3875 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 3775 3875 50  0001 C CNN
 F 3 "" H 3775 3875 50  0000 C CNN
 	1    3775 3875
 	1    0    0    -1  
@@ -184,7 +184,7 @@ U 1 1 61F97E8D
 P 4600 3875
 F 0 "SW9" H 4600 4130 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 4039 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 4600 3875 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 4600 3875 50  0001 C CNN
 F 3 "" H 4600 3875 50  0000 C CNN
 	1    4600 3875
 	1    0    0    -1  
@@ -206,7 +206,7 @@ U 1 1 61F9EA83
 P 2150 4625
 F 0 "SW11" H 2150 4880 50  0000 C CNN
 F 1 "SW_PUSH" H 2150 4789 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2150 4625 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2150 4625 50  0001 C CNN
 F 3 "" H 2150 4625 50  0000 C CNN
 	1    2150 4625
 	1    0    0    -1  
@@ -228,7 +228,7 @@ U 1 1 61F9EA97
 P 2975 4625
 F 0 "SW12" H 2975 4880 50  0000 C CNN
 F 1 "SW_PUSH" H 2975 4789 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2975 4625 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2975 4625 50  0001 C CNN
 F 3 "" H 2975 4625 50  0000 C CNN
 	1    2975 4625
 	1    0    0    -1  
@@ -250,7 +250,7 @@ U 1 1 61F9EAAB
 P 3775 4625
 F 0 "SW13" H 3775 4880 50  0000 C CNN
 F 1 "SW_PUSH" H 3775 4789 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 3775 4625 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 3775 4625 50  0001 C CNN
 F 3 "" H 3775 4625 50  0000 C CNN
 	1    3775 4625
 	1    0    0    -1  
@@ -272,7 +272,7 @@ U 1 1 61F9EABF
 P 4600 4625
 F 0 "SW14" H 4600 4880 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 4789 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 4600 4625 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 4600 4625 50  0001 C CNN
 F 3 "" H 4600 4625 50  0000 C CNN
 	1    4600 4625
 	1    0    0    -1  
@@ -294,7 +294,7 @@ U 1 1 61F9EAD3
 P 2150 5375
 F 0 "SW16" H 2150 5630 50  0000 C CNN
 F 1 "SW_PUSH" H 2150 5539 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2150 5375 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2150 5375 50  0001 C CNN
 F 3 "" H 2150 5375 50  0000 C CNN
 	1    2150 5375
 	1    0    0    -1  
@@ -316,7 +316,7 @@ U 1 1 61F9EAE7
 P 2975 5375
 F 0 "SW17" H 2975 5630 50  0000 C CNN
 F 1 "SW_PUSH" H 2975 5539 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2975 5375 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 2975 5375 50  0001 C CNN
 F 3 "" H 2975 5375 50  0000 C CNN
 	1    2975 5375
 	1    0    0    -1  
@@ -338,7 +338,7 @@ U 1 1 61F9EAFB
 P 3775 5375
 F 0 "SW18" H 3775 5630 50  0000 C CNN
 F 1 "SW_PUSH" H 3775 5539 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 3775 5375 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 3775 5375 50  0001 C CNN
 F 3 "" H 3775 5375 50  0000 C CNN
 	1    3775 5375
 	1    0    0    -1  
@@ -360,7 +360,7 @@ U 1 1 61F9EB0F
 P 4600 5375
 F 0 "SW19" H 4600 5630 50  0000 C CNN
 F 1 "SW_PUSH" H 4600 5539 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 4600 5375 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 4600 5375 50  0001 C CNN
 F 3 "" H 4600 5375 50  0000 C CNN
 	1    4600 5375
 	1    0    0    -1  
@@ -382,7 +382,7 @@ U 1 1 621500B5
 P 5425 3125
 F 0 "SW5" H 5425 3380 50  0000 C CNN
 F 1 "SW_PUSH" H 5425 3289 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 5425 3125 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 5425 3125 50  0001 C CNN
 F 3 "" H 5425 3125 50  0000 C CNN
 	1    5425 3125
 	1    0    0    -1  
@@ -404,7 +404,7 @@ U 1 1 621500C9
 P 5425 3875
 F 0 "SW10" H 5425 4130 50  0000 C CNN
 F 1 "SW_PUSH" H 5425 4039 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 5425 3875 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 5425 3875 50  0001 C CNN
 F 3 "" H 5425 3875 50  0000 C CNN
 	1    5425 3875
 	1    0    0    -1  
@@ -426,7 +426,7 @@ U 1 1 621500DD
 P 5425 4625
 F 0 "SW15" H 5425 4880 50  0000 C CNN
 F 1 "SW_PUSH" H 5425 4789 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 5425 4625 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 5425 4625 50  0001 C CNN
 F 3 "" H 5425 4625 50  0000 C CNN
 	1    5425 4625
 	1    0    0    -1  
@@ -448,7 +448,7 @@ U 1 1 621500F1
 P 5425 5375
 F 0 "SW20" H 5425 5630 50  0000 C CNN
 F 1 "SW_PUSH" H 5425 5539 50  0000 C CNN
-F 2 "kbd:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 5425 5375 50  0001 C CNN
+F 2 "logo:CherryMX_MidHeight_Choc_Hotswap_katagawa" H 5425 5375 50  0001 C CNN
 F 3 "" H 5425 5375 50  0000 C CNN
 	1    5425 5375
 	1    0    0    -1  
