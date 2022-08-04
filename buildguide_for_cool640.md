@@ -8,7 +8,9 @@
 |番号|名前|数|備考|調達先|参考価格（送料込）|<br>
 |1|PCB|1|4X5Macro pad<br>keyboard|[elecrow](https://www.elecrow.com)<br>[JLCPCB](https://jlcpcb.com)<br>[ALLPCB](https://www.allpcb.com)|５枚で10〜20ドル|<br>
 ||PCB|2|40%splite keyboard|↑|↑|
-|2|Switch Plate<br>スイッチプレート|１〜２|Macropadは１枚<br>splite keyboardは２枚|[工房Emerge+](https://www.emergeplus.jp/laser-cutting-service/contact/)<br>[遊舎工房](https://yushakobo.jp)<br>[elecrow](https://www.elecrow.com)|種類による。|
+|2-1|Switch Plate<br>スイッチプレート|１〜２|Macropadは１枚<br>splite keyboardは２枚|[工房Emerge+](https://www.emergeplus.jp/laser-cutting-service/contact/)<br>[遊舎工房](https://yushakobo.jp)<br>[elecrow](https://www.elecrow.com)|種類による。|
+|2-2|Cover Plate<br>カバープレート|１～２|↑｜↑｜↑|
+|2-3|Bottom Plate<br>ボトムプレート|１～２|↑｜↑｜↑|
 |3|M2screw<br>M2ネジ|4X1〜2|4mm<br>CoverPlateで使用|DIYショップなど|10本で100円程度|
 |4|M2screw<br>M2ネジ|4X1〜2|3mm|↑|↑|
 |5A|M2screw<br>M2ネジ|4X1〜2|8mm<br>MXスイッチ使用時|↑|↑|
