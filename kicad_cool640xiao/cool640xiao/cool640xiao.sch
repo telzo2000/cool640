@@ -972,9 +972,8 @@ F 1 "D" H 5875 3399 50  0000 C CNN
 F 2 "kbd:D3_TH_SMD" H 5875 3525 50  0001 C CNN
 F 3 "~" H 5875 3525 50  0001 C CNN
 	1    5875 3525
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
-Connection ~ 5725 3525
 $Comp
 L Device:D D1001
 U 1 1 63161DC0
@@ -984,9 +983,8 @@ F 1 "D" H 5875 4149 50  0000 C CNN
 F 2 "kbd:D3_TH_SMD" H 5875 4275 50  0001 C CNN
 F 3 "~" H 5875 4275 50  0001 C CNN
 	1    5875 4275
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
-Connection ~ 5725 4275
 $Comp
 L Device:D D1002
 U 1 1 631625C9
@@ -996,9 +994,8 @@ F 1 "D" H 5875 4899 50  0000 C CNN
 F 2 "kbd:D3_TH_SMD" H 5875 5025 50  0001 C CNN
 F 3 "~" H 5875 5025 50  0001 C CNN
 	1    5875 5025
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
-Connection ~ 5725 5025
 $Comp
 L Device:D D1003
 U 1 1 63162A9C
@@ -1008,9 +1005,8 @@ F 1 "D" H 5875 5649 50  0000 C CNN
 F 2 "kbd:D3_TH_SMD" H 5875 5775 50  0001 C CNN
 F 3 "~" H 5875 5775 50  0001 C CNN
 	1    5875 5775
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
-Connection ~ 5725 5775
 $Comp
 L Device:D D1004
 U 1 1 631633DD
@@ -1065,4 +1061,8 @@ Wire Wire Line
 	6225 6475 2750 6475
 Wire Wire Line
 	4300 2400 4300 3125
+Connection ~ 5725 3525
+Connection ~ 5725 4275
+Connection ~ 5725 5025
+Connection ~ 5725 5775
 $EndSCHEMATC
