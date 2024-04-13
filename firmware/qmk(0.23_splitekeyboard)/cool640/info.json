@@ -15,9 +15,9 @@
     },
     "matrix_pins": {
         "cols": ["F5", "F6", "B3", "B6", "B2"],
-        "rows": ["B5", "F6", "B3", "B2"]
+        "rows": ["B5", "B4", "B1", "F7"]
     },
- 
+
 
     "processor": "atmega32u4",
     "url": "",
